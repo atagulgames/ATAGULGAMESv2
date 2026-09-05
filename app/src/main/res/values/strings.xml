@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECHO</string>
+    <string name="action_play">OYNA</string>
+    <string name="action_levels">Bölümler</string>
+    <string name="action_themes">Temalar</string>
+    <string name="action_shop">Mağaza</string>
+    <string name="startapp_app_id" translatable="false">208838202</string>
+    <string name="adblock_warning_title">Reklam Engelleyici Tespit Edildi</string>
+    <string name="adblock_warning_subtitle">Uygulama çalıştırılamıyor</string>
+    <string name="adblock_recheck">Tekrar Kontrol Et</string>
+    <string name="adblock_exit">Oyundan Çık</string>
+</resources>

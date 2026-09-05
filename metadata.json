@@ -1,0 +1,6 @@
+{
+  "name": "ECHO",
+  "description": "ECHO - Minimalist harmonic reflection puzzle game with 250 handcrafted levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
